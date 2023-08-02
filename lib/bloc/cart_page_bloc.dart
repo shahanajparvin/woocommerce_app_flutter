@@ -2,8 +2,6 @@ import 'dart:async';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:woocommerce_app/bloc/cart_page_bloc.dart';
-import 'package:woocommerce_app/bloc/place_order_bloc.dart';
 import 'package:woocommerce_app/helper/const.dart';
 import 'package:rxdart/rxdart.dart';
 import 'package:woocommerce_app/model/ordered_product.dart';
