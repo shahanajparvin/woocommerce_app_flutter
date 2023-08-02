@@ -4,12 +4,15 @@
 </h1>
 
 <p align="center">
-  <img alt="Logo" src="https://user-images.githubusercontent.com/32623983/170842452-2ea3a2f8-2164-421e-8788-d52c878a1a07.png" width="100" />
+Flutter WooCommerce App: A sleek e-commerce mobile app integrated with WooCommerce API. Built on Flutter using Bloc pattern for state management, it enables seamless browsing of products, viewing details, and smooth checkout. Delivering a modern shopping experience, it empowers users to shop effortlessly on your WooCommerce store.
 </p>
 
+
 <p align="center">
-  This is a sample GitHub repository for a WooCommerce Flutter app that utilizes REST API and Bloc pattern for state management.
+  <img alt="Logo" src="https://github.com/putulputul/woocommerce_app_flutter/assets/17999879/0b798498-4516-4e76-a938-0b2ce29577a1", width:100" />
 </p>
+
+
 
 <h2>Overview</h2>
 
