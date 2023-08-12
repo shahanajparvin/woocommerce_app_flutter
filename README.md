@@ -9,7 +9,7 @@ Flutter WooCommerce App: A sleek e-commerce mobile app integrated with WooCommer
 
 
 <p align="center">
-  <img alt="Logo" src="https://github.com/putulputul/woocommerce_app_flutter/assets/17999879/0b798498-4516-4e76-a938-0b2ce29577a1", width:100" />
+  <img alt="Logo" src="https://github.com/shahanajparvin/woocommerce_app_flutter/assets/17999879/a0f31598-860c-43d0-9c97-c2d06ace594d" />
 </p>
 
 
